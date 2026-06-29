@@ -33,3 +33,15 @@ leetcode-solutions/
 ## 📝 Notes
 
 I update this README every time I add a new solution — adding a row to the table above and bumping the stats.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ashnaaz187/leetcode-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ashnaaz187/leetcode-solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
